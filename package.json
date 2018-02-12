@@ -1,0 +1,23 @@
+{
+  "name": "typescriptpoc",
+  "version": "1.0.0",
+  "description": "typescriptPOC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasannalakshmiy/typescriptPOC.git"
+  },
+  "author": "Prasanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasannalakshmiy/typescriptPOC/issues"
+  },
+  "homepage": "https://github.com/prasannalakshmiy/typescriptPOC#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
